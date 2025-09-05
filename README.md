@@ -41,35 +41,6 @@ O projeto simula operações bancárias, como **criação de clientes**, **abert
 
 ---
 
-## 📂 Estrutura do Projeto
-
-🖥️ Demonstração de Uso
-🔹 Criando um novo cliente
-[nu] Novo Usuário
-Informe o CPF: 12345678900
-Informe o nome completo: Maria Oliveira
-Informe a data de nascimento: 15-03-1995
-Informe o endereço: Rua das Flores, 123 - Centro - BH/MG
-=== Cliente criado com sucesso! ===
-
-🔹 Criando uma nova conta
-[nc] Nova Conta
-Informe o CPF do cliente: 12345678900
-=== Conta criada com sucesso! ===
-
-🔹 Realizando um depósito
-[d] Depositar
-Informe o CPF do cliente: 12345678900
-Informe o valor do depósito: R$ 500
-=== Depósito realizado com sucesso! ===
-
-🔹 Emitindo extrato
-[e] Extrato
-================ EXTRATO ================
-03/09/2025 14:25:13 | Deposito | R$ 500.00
-Saldo atual: R$ 500.00
-==========================================
-
 Aprendizados Demonstrados
 
 📌 Modelagem de sistemas usando POO
