@@ -58,3 +58,6 @@ Aprendizados Demonstrados
 📍 Minas Gerais 
 🔗 [LinkedIn](https://www.linkedin.com/in/palomajaworosky)  
 🔗 [GitHub](https://github.com/Pjaworosky)
+
+> ℹ️ **Aviso**  
+> Este projeto foi desenvolvido para fins de **estudo** e é **inspirado** em exercícios propostos pela [Digital Innovation One](https://www.dio.me/).
